@@ -169,6 +169,7 @@
   transform-origin: 0 0;
   transform: rotate(90deg) scale(1, 1);
 }
+/*
 .rectangle {
   opacity: 0.20000000298023224;
   width: 1902.27px;
@@ -177,6 +178,7 @@
   left: -199.32px;
   top: -33.93px;
 }
+*/
 .group-8 {
   width: 343px;
   height: 77px;
@@ -944,7 +946,7 @@
   color: #1f2839;
   text-align: right;
   font: 300 19px "Neue Machina";
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   position: absolute;
   /*left: 206.38px;*/
   left: 1386.38px;
